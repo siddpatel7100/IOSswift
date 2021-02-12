@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  ExpenseTracker
+
+  Copyright © 2020 Conestoga IOS. All rights reserved.
+*/
+
+"ChooseFromLibrary" = "लाइब्रेरी से चुनें";
+"CopyImageURL" = "छवि  की प्रतिलिपि बनाएँ";
+"Folder"= "फ़ोल्डर";
+"TakeAPhoto" = "टेक अ फोटो";
+"Photo" = "फोटो";
+"Delete" = "हटाएं";
+"AreYouSure" = "क्या आप निश्चित हैं?";
+"Cancel" = "रद्द करें";
+"TitleIsEmpty" = "शीर्षक खाली है";
+"AmountIsempty" = "राशि खाली है";
+"ImageIsEmpty" = "चित्र चयनित नहीं है";
+"LocationIsEmpty" = "स्थान चयनित नहीं है";
+"AmountIsLessThanOrEqualZero" = "राशि से कम या बराबर शून्य है";
+"CategoryName" = "श्रेणी नाम: ";
+"TotalSpendingAmount" = "कुल खर्च राशि: ";
+"NoRecordFound" = "कोई रिकॉर्ड नहीं मिला";
+

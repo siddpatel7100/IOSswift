@@ -1,0 +1,26 @@
+{ "master" : {
+        "categories" : [
+            {   "id": 4,
+                "name": "Clothes",
+                "url": "https://live.staticflickr.com/6046/6356229537_8c6927af95_c_d.jpg",
+                "detail": "Clothes that you have purchased"
+            },
+            {   "id": 5,
+                "name": "Grocery",
+                "url": "https://live.staticflickr.com/65535/50107356657_b3e3b1a2b0_c_d.jpg",
+                "detail": "Grocery that you have purchased"
+            },
+            {   "id": 6,
+                "name": "Downpour",
+                "url": "https://live.staticflickr.com/3701/9351784504_47389eb56e_c_d.jpg",
+                "detail": "Clothes that you have purchased"
+            },
+            {   "id": 7,
+                "name": "Ghat",
+                "url": "https://live.staticflickr.com/7315/9374501772_0f0a25d85a_c_d.jpg",
+                "detail": "Clothes that you have purchased"
+            }
+        ]
+    }
+}
+

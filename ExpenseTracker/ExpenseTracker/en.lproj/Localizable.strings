@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  ExpenseTracker
+
+  Copyright © 2020 Conestoga IOS. All rights reserved.
+*/
+
+"ChooseFromLibrary" = "Choose from library";
+"CopyImageURL" = "Copy Image URL";
+"Folder" = "Folder";
+"TakeAPhoto" = "Take A Photo";
+"Photo" = "Photo";
+"Delete" = "Delete";
+"AreYouSure" = "Are you sure?";
+"Cancel" = "Cancel";
+"TitleIsEmpty" = "Title Is Empty";
+"AmountIsEmpty" = "Amount Is Empty";
+"ImageIsEmpty" = "Picture is not selected";
+"LocationIsEmpty" = "Location is not selected";
+"AmountIsLessThanOrEqualZero" = "Amount is less than or equal zero";
+"CategoryName" = "Category Name: ";
+"TotalSpendingAmount" = "Total Spending Amount: ";
+"NoRecordFound" = "No Record Found";
+

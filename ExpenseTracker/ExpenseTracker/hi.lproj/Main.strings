@@ -1,0 +1,81 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7bz-Gt-0kO"; */
+"7bz-Gt-0kO.text" = "लेबल";
+
+/* Class = "UITextField"; placeholder = "Spending amount"; ObjectID = "AvR-zZ-Kmi"; */
+"AvR-zZ-Kmi.placeholder" = "खर्च की गई राशि";
+
+/* Class = "UINavigationItem"; title = "Categories"; ObjectID = "D1l-Ji-5f7"; */
+"D1l-Ji-5f7.title" = "श्रेणियाँ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DdD-Q3-z1k"; */
+"DdD-Q3-z1k.text" = "लेबल";
+
+/* Class = "UILabel"; text = "Waterloo"; ObjectID = "Fh2-S8-xiX"; */
+"Fh2-S8-xiX.text" = "वाटरलू";
+
+/* Class = "UITabBarItem"; title = "Summary"; ObjectID = "I1a-TK-wQn"; */
+"I1a-TK-wQn.title" = "सारांश";
+
+/* Class = "UILabel"; text = "Created Date"; ObjectID = "Jfg-2d-zM5"; */
+"Jfg-2d-zM5.text" = "रचना तिथि";
+
+/* Class = "UITabBarItem"; title = "Category"; ObjectID = "NAM-Ed-Yma"; */
+"NAM-Ed-Yma.title" = "वर्ग";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "OcT-oH-uoe"; */
+"OcT-oH-uoe.text" = "सेवा";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "PSg-Qa-vt3"; */
+"PSg-Qa-vt3.text" = "स्थान";
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "Qja-j1-TPC"; */
+"Qja-j1-TPC.placeholder" = "शीर्षक";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TEp-Tf-8Yf"; */
+"TEp-Tf-8Yf.text" = "लेबल";
+
+/* Class = "UINavigationItem"; title = "Spending"; ObjectID = "Yz5-Xb-C0d"; */
+"Yz5-Xb-C0d.title" = "खर्च";
+
+/* Class = "UITabBarItem"; title = "Spending"; ObjectID = "aOv-qZ-OOG"; */
+"aOv-qZ-OOG.title" = "खर्च";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "gIH-Lm-7xr"; */
+"gIH-Lm-7xr.text" = "वर्ग";
+
+/* Class = "UILabel"; text = "Picture"; ObjectID = "ia0-wU-iKH"; */
+"ia0-wU-iKH.text" = "चित्र";
+
+/* Class = "UILabel"; text = "Category Name"; ObjectID = "nCr-aq-WAd"; */
+"nCr-aq-WAd.text" = "श्रेणी नाम";
+
+/* Class = "UIBarButtonItem"; title = "Import"; ObjectID = "nPe-sP-aOh"; */
+"nPe-sP-aOh.title" = "आयात";
+
+/* Class = "UINavigationItem"; title = "Summary"; ObjectID = "rIu-GS-LAZ"; */
+"rIu-GS-LAZ.title" = "सारांश";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "sDQ-sB-r55"; */
+"sDQ-sB-r55.text" = "विस्तार";
+
+/* Class = "UIButton"; normalTitle = "Caculate"; ObjectID = "vUm-co-K9S"; */
+"vUm-co-K9S.normalTitle" = "विस्तार";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "vnl-vh-NnH"; */
+"vnl-vh-NnH.text" = "शीर्षक";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "wbU-2l-WHW"; */
+"wbU-2l-WHW.text" = "रकम";
+
+/* Class = "UILabel"; text = "From"; ObjectID = "ybG-1j-DFz"; */
+"ybG-1j-DFz.text" = "से";
+
+/* Class = "UISegmentedControl"; yyj-ry-yCN.segmentTitles[0] = "Standard"; ObjectID = "yyj-ry-yCN"; */
+"yyj-ry-yCN.segmentTitles[0]" = "मानक";
+
+/* Class = "UISegmentedControl"; yyj-ry-yCN.segmentTitles[1] = "Hybrid"; ObjectID = "yyj-ry-yCN"; */
+"yyj-ry-yCN.segmentTitles[1]" = "संकर";
+
+/* Class = "UISegmentedControl"; yyj-ry-yCN.segmentTitles[2] = "Satellite"; ObjectID = "yyj-ry-yCN"; */
+"yyj-ry-yCN.segmentTitles[2]" = "उपग्रह";
